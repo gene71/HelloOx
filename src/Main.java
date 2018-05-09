@@ -3,7 +3,7 @@ public class Main {
 
 	public static void main(String[] args) {
 		System.out.println("Jenkins Pipeline Test");
-		System.out.println("build 18?");
+		System.out.println("build 21?");
 
 	}
 
